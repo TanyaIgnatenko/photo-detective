@@ -4,8 +4,10 @@ from flask import request
 from flask import jsonify, json
 import base64
 from check_image import is_modified
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/')
 def index():
