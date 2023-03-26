@@ -34,4 +34,4 @@ def is_fake(img):
 #     result = class_map[0 if predictions[0][0] < 0.98 else 1]
 #
 #     return result == 'modified'
-      return true
+      return True
