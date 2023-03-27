@@ -15,8 +15,7 @@ def check():
         b64data = json.loads(request.data)['image']
         b64data = b64data.split('base64,', maxsplit=1)[1]
         image = base64.b64decode(b64data)
-#         modified = is_modified(image)
-        modified = True
+        modified = is_modified(image)
         if modified:
             status = 'modified'
         else:
