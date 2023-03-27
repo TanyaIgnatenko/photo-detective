@@ -16,7 +16,7 @@ def check():
         b64data = b64data.split('base64,', maxsplit=1)[1]
         image = base64.b64decode(b64data)
 #         modified = is_modified(image)
-        modified = true
+        modified = True
         if modified:
             status = 'modified'
         else:
