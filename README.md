@@ -3,4 +3,4 @@ A tool to detect image insertions on photos using machine learning [backend]
 
 **Demo: https://photo-detective-front-3opm.vercel.app/**
 
-Technologies used: Flask, python, tensorflow, opencv-python
+Technologies: Flask, python, tensorflow, opencv-python
