@@ -5,6 +5,6 @@ A tool to detect image insertions on photos using machine learning.
 
 Technologies: Python, Flask, Machine Learning
 
-Frontend: https://github.com/TanyaIgnatenko/photo-detective-frontend
+Frontend: https://github.com/TanyaIgnatenko/photo-detective-front
 
 ![App demo](assets/demo.gif)
