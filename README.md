@@ -1,4 +1,4 @@
-# Photo Detective Tool
+# A tool for detecting image insertions in photos using Machine Learning
 The goal of the project was to create a tool for detecting image insertions in photos using Machine Learning.
 
 ### Description
