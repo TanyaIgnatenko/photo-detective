@@ -1,4 +1,4 @@
-# A tool for detecting image insertions in photos using Machine Learning
+# Image forgery detection project using CNN
 The goal of the project was to create a tool for detecting image insertions in photos using Machine Learning.
 
 This work was done for the ISSC-2018 conference competition, where it achieved 1st place.
