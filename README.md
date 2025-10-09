@@ -76,7 +76,7 @@ To improve realism and robustness, I built a **data automation pipeline** that g
 
 **Tatyana Ignatenko**  
 AI Engineer in Computer Vision and NLP  
-🔗 [LinkedIn](www.linkedin.com/in/tatyana-ignatenko) • [GitHub](https://github.com/TanyaIgnatenko)
+🔗 [LinkedIn](https://linkedin.com/in/tatyana-ignatenko) • [GitHub](https://github.com/TanyaIgnatenko)
 
 ---
 
