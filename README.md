@@ -10,6 +10,12 @@ It automatically identifies whether an image has been digitally modified by dete
 
 ---
 
+### 🎥 Demo Video
+
+![App demo](assets/demo.gif)
+
+---
+
 ## 🚀 Overview
 
 This project explores **AI-based digital image forensics** — detecting manipulated or forged images through machine learning.  
