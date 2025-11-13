@@ -1,6 +1,6 @@
 # 🔍 Photo Modifications Detection (CNN-based Image Forgery Detection)
 
-The goal of this project is to detect insertion modifications on photos using Convolutional Neural Networks (CNNs).
+The goal of this project is to detect insertion modifications on photos using Convolutional Neural Networks (CNNs).  
 
 🏆 **Winner of the ISSC-2018 Conference Competition (1st Place)**  
 📘 [Research Paper / Publication](https://e-lib.nsu.ru/reader/bookView.html?params=UmVzb3VyY2UtMzg2OQ/cGFnZTAwMDAwMA)  
