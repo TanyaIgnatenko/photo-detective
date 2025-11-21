@@ -27,7 +27,7 @@ To improve realism and robustness, I built a **data automation pipeline** that g
 ## 🔍 Approach
 
 - 🧩 **Automated Forgery Generation:**  
-  Developed a Python script that **detects meaningful objects** in source images using **SLIC segmentation** and **K-Means clustering** on **Gabor texture features**, then inserts them into target images to simulate realistic tampering.  
+  Developed a Python script that **detects meaningful objects** in source images then inserts them into target images to simulate realistic tampering.  
 
 - 🧠 **Feature Extraction and Learning:**  
   A custom **CNN architecture** was trained on a **balanced dataset** of authentic and forged images.  
